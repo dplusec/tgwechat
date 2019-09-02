@@ -1,5 +1,7 @@
 # TgWechat
 
+**仅供个人消遣玩耍，请勿用于非法或者商业用途。若用于非法用途，一切后果由使用者承担，与软件作者无关**
+
 一款采用Telegram类似的安全加密方案实现的保护个人隐私安全的微信聊天插件。
 
 自由切换 端对端加密 安全可靠
@@ -12,6 +14,7 @@
 
 功能：
 
+* 默认支持多开
 * 支持个人聊天文本内容加密
 * 支持内置表情加密
 * 支持两人群聊（测试功能，多人聊天还在调试中）
@@ -42,3 +45,5 @@
 * 多人群聊
 * 支持macos
 * ...
+
+感谢[@鬼手](https://github.com/TonyChen56/WeChatRobot)、[@anhkgg](https://github.com/anhkgg/SuperWeChatPC)、[@大魔头](https://bbs.pediy.com/thread-224988.htm)、[@Cirn](https://bbs.pediy.com/thread-223178.htm)以及其他看雪、吾爱大牛无私分享的技术。
