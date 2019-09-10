@@ -53,4 +53,4 @@
 
 如果觉得工具有用，请不吝支持我的工作。
 
-[bitcoin:3MfKfzuK6qMf1NRDH3k1RKp82bnwdhSnFm](bitcoin:3MfKfzuK6qMf1NRDH3k1RKp82bnwdhSnFm)
+<a href="bitcoin:3MfKfzuK6qMf1NRDH3k1RKp82bnwdhSnFm">bitcoin:3MfKfzuK6qMf1NRDH3k1RKp82bnwdhSnFm</a>
