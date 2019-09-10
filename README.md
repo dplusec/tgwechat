@@ -2,6 +2,8 @@
 
 **仅供个人消遣玩耍，请勿用于非法或者商业用途。若用于非法用途，一切后果由使用者承担，与软件作者无关**
 
+[dpluse.com](https://dplusec.com)
+
 一款采用Telegram类似的安全加密方案实现的保护个人隐私安全的微信聊天插件。
 
 自由切换 端对端加密 安全可靠
@@ -18,6 +20,7 @@
 * 支持个人聊天文本内容加密
 * 支持内置表情加密
 * 支持两人群聊（测试功能，多人聊天还在调试中）
+* 支持版本2.6.8.65及以后版本
 
 # 使用方法
 
@@ -47,3 +50,7 @@
 * ...
 
 感谢[@鬼手](https://github.com/TonyChen56/WeChatRobot)、[@anhkgg](https://github.com/anhkgg/SuperWeChatPC)、[@大魔头](https://bbs.pediy.com/thread-224988.htm)、[@Cirn](https://bbs.pediy.com/thread-223178.htm)以及其他看雪、吾爱大牛无私分享的技术。
+
+如果觉得工具有用，请不吝支持我的工作。
+
+[bitcoin:3MfKfzuK6qMf1NRDH3k1RKp82bnwdhSnFm](bitcoin:3MfKfzuK6qMf1NRDH3k1RKp82bnwdhSnFm)
