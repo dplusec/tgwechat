@@ -53,4 +53,4 @@
 
 如果觉得工具有用，请不吝支持我的工作。
 
-<a href="bitcoin:3MfKfzuK6qMf1NRDH3k1RKp82bnwdhSnFm">bitcoin:3MfKfzuK6qMf1NRDH3k1RKp82bnwdhSnFm</a>
+<a href="https://www.blockchain.com/btc/payment_request?address=3MfKfzuK6qMf1NRDH3k1RKp82bnwdhSnFm&amount=0.1">bitcoin:3MfKfzuK6qMf1NRDH3k1RKp82bnwdhSnFm</a>
