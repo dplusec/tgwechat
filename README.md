@@ -26,7 +26,7 @@
 
 ## 1、安装
 
-使用TgWechat.exe进行快捷安装，还支持更新、卸载、多开微信。
+先下载[安装包](https://github.com/dplusec/tgwechat/releases)，使用TgWechat.exe进行快捷安装，还支持更新、卸载、多开微信。
 
 ![img](install.png)
 
