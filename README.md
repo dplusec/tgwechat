@@ -54,3 +54,5 @@
 如果觉得工具有用，请不吝支持我的工作。
 
 <a href="https://www.blockchain.com/btc/payment_request?address=3MfKfzuK6qMf1NRDH3k1RKp82bnwdhSnFm&amount=0.01" target="_blank ">bitcoin:3MfKfzuK6qMf1NRDH3k1RKp82bnwdhSnFm</a>
+
+群聊: [681119362](https://jq.qq.com/?_wv=1027&k=5vjz4B0)
